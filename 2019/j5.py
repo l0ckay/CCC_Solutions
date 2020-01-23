@@ -2,6 +2,8 @@
 # This solution uses a tree structure to generate the path to the solution
 # using some optimization to reduce repeated calculations
 
+# Not tested with the Online Grader. It works quickly with all of the test data
+
 import re
 
 # Create a Node class to make a tree
