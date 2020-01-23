@@ -3,6 +3,8 @@ from itertools import groupby
 # Take the operation input (ex. "HVVHVHH")
 operations = input()
 
+# CCC 2019 J4 / S1 - Flipper
+
 positions = [1,2,3,4]
 # UL = 1; UR = 2;
 # BL = 3; BR = 4

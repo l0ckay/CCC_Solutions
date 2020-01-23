@@ -1,3 +1,5 @@
+# CCC 2019 J1 - Winning Score
+
 # Variables for scores of Apples and Bananas
 apples = 0
 bananas = 0
